@@ -15,6 +15,9 @@
 
 def speak_to_grandma(phrase.upcase)
   if phrase.upcase == ""
-  elsif
-else
+   puts "NO, NOT SINCE 1938!"
+  elsif phrase.upcase =="I LOVE YOU GRANDMA!"
+   puts "I LOVE YOU TOO PUMPKIN!"
+  else
+   puts "HUH?! SPEAK UP, SONNY!"
 end
