@@ -17,9 +17,10 @@ phrase = ""
 def speak_to_grandma(phrase)
   if phrase =="I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN"
-  elsif pharse == phrase.downcase
+  elsif phrase == phrase.downcase
     puts "HUH?! SPEAK UP, SONNY!"
-  elsif pharse == phrase.downcase
+  elsif phrase == phrase.downcase
     puts "HUH?! SPEAK UP, SONNY!"
-    
+  elsif phase == phrase.upcase
+  
 end
